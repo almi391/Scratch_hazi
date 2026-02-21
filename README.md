@@ -4,7 +4,7 @@ A játék linkje: https://scratch.mit.edu/projects/1281646937
 
 A program futtatàsàhoz:
 1. Töltsük le a ` Scratch_hazi_Kovacs_Almos_ACU0ON` fájlt.
-2. Nyisuk meg a fájlt Scratchben.
+2. Nyissuk meg a fájlt Scratchben.
 3. Válasszuk a Fájl -> Feltöltés a számítógépről opciót.
 
 <img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/a255d94a-b568-444d-9042-f16972cb893a" />
