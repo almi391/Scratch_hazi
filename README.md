@@ -3,7 +3,7 @@ Ez a játék a bemutatatandó házi feladatom, ahol a játék célja hogy a tize
 A játék linkje: https://scratch.mit.edu/projects/1281646937
 
 A program futtatàsàhoz:
-1. Töltsük le a ` Scarth_hazi_Kovacs_Almos_ACU0ON` fájlt.
+1. Töltsük le a ` Scrath_hazi_Kovacs_Almos_ACU0ON` fájlt.
 2. Nyisuk meg a fájlt Scrathben.
 3. Válasszuk a Fájl -> Feltöltés a számítógépről opciót.
 
