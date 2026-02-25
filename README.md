@@ -1,5 +1,7 @@
 # Scratch_hazi
 Ez a játék a bemutatatandó házi feladatom, ahol a játék célja hogy a tizenegyespontról gólt tudjunk lőni a labdával.
+A játékban a kapus folyamatosan mozog és nekünk az a célunk, hogy a labdát ellőjjük mellette úgy, hogy az eltalálja a kaput.
+Magát a labdát úgy tudjuk ellőni hogy amerre kattintunk az egérrel, arra fog menni a labda.
 A játék linkje: https://scratch.mit.edu/projects/1281646937
 
 A program futtatàsàhoz:
